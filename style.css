@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #009688;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  .hero {
+    padding: 50px;
+    text-align: center;
+    background: #e0f2f1;
+  }
+  main {
+    padding: 20px;
+  }
+  .gallery {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+  }
+  .gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+  }
+  footer {
+    background: #004d40;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
